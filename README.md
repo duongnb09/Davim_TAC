@@ -1,5 +1,5 @@
 # FlowVis
-FlowVis is a visual analytic system for unsteady flow. The basic features of the software include Line integral convolution (LIC) texture generation, volume rendering, pathline tracing, local attribute computation, edge-bundling visualization based on time activity curves, attribute volume rendering.
+FlowVis is a visual analytic system for unsteady flow which is described in the paper "Unsteady Flow Visualization via Physics based Pathline Exploration", IEEE VIS 2019. The basic features of the software include Line integral convolution (LIC) texture generation, volume rendering, pathline tracing, local attribute computation, edge-bundling visualization based on time activity curves, attribute volume rendering.
 
 [![Demo Video](https://img.youtube.com/vi/YltJbJSuS5A/0.jpg)](https://www.youtube.com/watch?v=YltJbJSuS5A)
 
